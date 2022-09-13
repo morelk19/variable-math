@@ -1,7 +1,7 @@
-let x1 = 10;
-let x2 = 8;
-let y1 = 5;
-let y2 = 15;
+let x1 = 0;
+let x2 = 0;
+let y1 = 0;
+let y2 = 5;
 
 let distance = Math.sqrt((((x2-x1)**2)+((y2-y1)**2)));
 
